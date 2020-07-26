@@ -1,0 +1,71 @@
+2020-07-26 22:10:54 INFO  userInterface:20 - Using Logger
+2020-07-26 22:10:54 INFO  userInterface:21 - To calculate Simple Interest and Compound Interest
+2020-07-26 22:10:54 INFO  userInterface:22 - 
+
+Enter Principal amount 
+Rate of Interest(r/100) 
+Time in years 
+Number of times interest applied per time period
+
+2020-07-26 22:11:10 INFO  userInterface:20 - Using Logger
+2020-07-26 22:11:10 INFO  userInterface:21 - To calculate Simple Interest and Compound Interest
+2020-07-26 22:11:10 INFO  userInterface:22 - 
+
+Enter Principal amount 
+Rate of Interest(r/100) 
+Time in years 
+Number of times interest applied per time period
+
+2020-07-26 22:11:23 INFO  interest:9 - Entered SimpleInterest method.
+2020-07-26 22:11:23 INFO  interest:14 - Entered CompoundInterest method.
+2020-07-26 22:11:23 INFO  interest:9 - Entered SimpleInterest method.
+2020-07-26 22:11:23 INFO  userInterface:32 - Simple Interest is:40.0
+2020-07-26 22:11:23 INFO  interest:14 - Entered CompoundInterest method.
+2020-07-26 22:11:23 INFO  userInterface:34 - Compound Interest is:40.70704392543735
+2020-07-26 22:11:23 INFO  userInterface:36 - House Construction
+2020-07-26 22:11:23 INFO  userInterface:37 - 
+
+Enter Total area and Standard(1-standard  2-above standard  3-high standard):
+
+2020-07-26 22:11:46 INFO  userInterface:41 - 
+Do you want a Fully Automated Home??
+ If yes press 1 else 0:
+ 
+2020-07-26 22:11:49 INFO  construction_cost:12 - Intialized parameters.
+2020-07-26 22:11:49 INFO  construction_cost:19 - Entered estimate method.
+
+2020-07-26 22:11:49 INFO  userInterface:46 - Construction Cost Of Home is:510750.0
+
+
+2020-07-26 22:11:49 INFO  userInterface:47 - Exiting Program..
+2020-07-26 22:19:44 INFO  userInterface:20 - Using Logger
+2020-07-26 22:19:44 INFO  userInterface:21 - To calculate Simple Interest and Compound Interest
+2020-07-26 22:19:44 INFO  userInterface:22 - 
+
+Enter Principal amount 
+Rate of Interest(r/100) 
+Time in years 
+Number of times interest applied per time period
+
+2020-07-26 22:19:54 INFO  interest:9 - Entered SimpleInterest method.
+2020-07-26 22:19:54 INFO  interest:14 - Entered CompoundInterest method.
+2020-07-26 22:19:54 INFO  interest:9 - Entered SimpleInterest method.
+2020-07-26 22:19:54 INFO  userInterface:32 - Simple Interest is:800.0
+2020-07-26 22:19:54 INFO  interest:14 - Entered CompoundInterest method.
+2020-07-26 22:19:54 INFO  userInterface:34 - Compound Interest is:1143.5888100000016
+2020-07-26 22:19:54 INFO  userInterface:36 - House Construction
+2020-07-26 22:19:54 INFO  userInterface:37 - 
+
+Enter Total area and Standard(1-standard  2-above standard  3-high standard):
+
+2020-07-26 22:20:02 INFO  userInterface:41 - 
+Do you want a Fully Automated Home??
+ If yes press 1 else 0:
+ 
+2020-07-26 22:20:03 INFO  construction_cost:12 - Intialized parameters.
+2020-07-26 22:20:03 INFO  construction_cost:19 - Entered estimate method.
+
+2020-07-26 22:20:04 INFO  userInterface:46 - Construction Cost Of Home is:351135.0
+
+
+2020-07-26 22:20:04 INFO  userInterface:47 - Exiting Program..
